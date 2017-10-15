@@ -10,25 +10,21 @@ public class InsertionSort {
     }
 
 
-
-
-
     public int[] sort(int[] arr){
-        int numofIterations=0;
+       // int numofIterations=0;
         for (int i=1;i<arr.length;i++){
             int count =i;
             for (int j=i-1;j>=0;j--){
-                numofIterations++;
+            //    numofIterations++;
                 if(arr[count] < arr[j]){
                     arr=swap(arr, count, j);
                     count--;
                 }else continue;
             }
         }
-        System.out.println("Count :"+numofIterations);
+       // System.out.println("Count :"+numofIterations);
         return arr;
     }
-
 
     public int[] swap(int []arr ,int i , int j){
         int temp =arr[i];

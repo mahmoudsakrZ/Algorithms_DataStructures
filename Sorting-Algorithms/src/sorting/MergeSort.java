@@ -30,20 +30,8 @@ public class MergeSort {
 
         }
 
-
-
-
-
-
-
         return null ;
     }
-
-
-
-
-
-
 
 
     public int [] merge(int left[],int right[]){

@@ -5,17 +5,27 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Reachability {
+    /*
+        this algorithm is for create an undirected unweighted graph
+        by adding number of vertices && number of edges
+        then add connected edges
+        vertices naming start with 1 to v
 
+     */
+    // Adjacency List for creating the graph
     static List<Integer> [] arr;
     static int a,b,v;
+    // this flag for testing if the two nodes have a path or not
     static int flag=0;
-
+    // initialize a adjacency list for the graph
     public static void adjList(int v){
         arr=(List<Integer>[]) new List[v];
         for (int i=0;i<v;i++){
             arr[i]=new ArrayList<>();
         }
     }
+
+    //add edges between the vertices of the graph   x -> y
     public static void addEdge(int x,int y){
         arr[x-1].add(y-1);
         arr[y-1].add(x-1);
@@ -31,12 +41,16 @@ public class Reachability {
             count++;
         }
     }*/
+
+
+    // this method for find the a path
     public static void DFS(int a, int b){
         boolean visited []=new boolean[v];
         DFSExplore(a,b,visited);
         System.out.println(flag);
 
     }
+
     public static void DFSExplore(int v,int b, boolean visited[]){
         int sec=b;
         visited[v]=true;

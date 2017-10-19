@@ -10,7 +10,7 @@
 2- Graph representation <br>
 3- DFS 
 # Number theory 
-1- Primes (prime sieve)
+1- Primes (prime sieve)<br>
 2- Factorization
 # Some codeforce problems 
 

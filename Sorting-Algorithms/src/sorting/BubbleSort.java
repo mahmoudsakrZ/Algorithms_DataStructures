@@ -22,6 +22,7 @@ public class BubbleSort {
 // it is the real bubble sort sort from the end of the array to the beginning of the array
     public static  int [] bubbleSort(int [] arr){
         int n=arr.length-1;
+        //Just counter for num of steps
         int count=0;
 
         for (int i=0;i<arr.length;i++){
@@ -38,8 +39,9 @@ public class BubbleSort {
     }
 
     // it is the real bubble sort sort from the start of the array to the end of the array
-    // using swap flag for improving complexity of the sorting algorithm
+    // using swap flag for improving complexity of the sorting algorithm if the array already sorted
     public static int [] bubbleSort3(int arr[]){
+        // Just a counter for num of steps
         int count=0;
         int n=arr.length-1;
 

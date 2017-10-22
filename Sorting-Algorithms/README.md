@@ -4,7 +4,8 @@
 * insertion sort <br>
 * selection sort <br>
 * bubble sort <br>
-* merge sort 
+* merge sort <br>
+* quick sort
 ## Data Structure 
 * Linkedlist <br>
 * Graph representation <br>

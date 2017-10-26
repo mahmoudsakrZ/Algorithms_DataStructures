@@ -9,7 +9,8 @@
 ## Data Structure 
 * Linkedlist <br>
 * Graph representation <br>
-* DFS 
+* DFS <br>
+* Stack
 ## Number theory 
 * Primes (prime sieve)<br>
 * Factorization

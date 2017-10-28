@@ -4,7 +4,6 @@ import java.util.EmptyStackException;
 
 public class Stack <T>{
     T arr[];
-    T temp[];
     private int top;
     public Stack(){
         arr=(T[]) new Object[2];
@@ -36,7 +35,6 @@ public class Stack <T>{
     // exceed the size of the array we store our data in it
     private T[] resize(T [] array){
 
-        temp=(T[]) new Object[array.length];
         arr=(T[]) new Object[array.length*2];
         int index=0;
         for (T x: array){

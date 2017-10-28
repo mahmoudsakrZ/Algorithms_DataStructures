@@ -11,6 +11,7 @@
 * Graph representation <br>
 * DFS <br>
 * Stack
+* Queue
 ## Number theory 
 * Primes (prime sieve)<br>
 * Factorization

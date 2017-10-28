@@ -1,5 +1,5 @@
 # Sorting-Algorithms
- this project for implementing some algorithms and data structures 
+ this project for implementing some algorithms and data structures .
 ## Sorting Algorithm 
 * insertion sort <br>
 * selection sort <br>

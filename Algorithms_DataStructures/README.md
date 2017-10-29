@@ -1,4 +1,4 @@
-# Sorting-Algorithms
+# Algorithms_DataStructures
  this project for implementing some algorithms and data structures .
 ## Sorting Algorithm 
 * insertion sort <br>

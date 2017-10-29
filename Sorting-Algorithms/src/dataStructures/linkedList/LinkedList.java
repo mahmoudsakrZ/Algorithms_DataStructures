@@ -33,6 +33,22 @@ public class LinkedList {
 
         }
     }
+    public void remove(int x){
+        Node current =head;
+        while (current.next!=null) {
+            if (current.next.getData() == x) {
+                Node temp = current.next;
+                current.next = temp.next;
+                return;
+            }else if(head.getData()==x){
+                head=current.next;
+                return;
+            }
+            current=current.next;
+        }
+
+    }
+
 
     public boolean isEmpty(){
         return (head==null);
@@ -56,6 +72,21 @@ public class LinkedList {
         System.out.println("Search done : "+list.search(40).getData());
         System.out.println("Search done : "+list.search(50));
         list.display();
+
+        System.out.println("---- this for display ----");
+        list.display();
+        System.out.println("searching "+list.search(10).getData());
+        list.remove(30);
+        System.out.println("---- this for display ----");
+        list.display();
+        list.remove(60);
+        System.out.println("---- this for display ----");
+        list.display();
+        list.remove(10);
+        System.out.println("---- this for display ----");
+        list.display();
+        System.out.println("Search done : "+list.search(10));
+        System.out.println("Search done : "+list.search(40).getData());
     }
 
 

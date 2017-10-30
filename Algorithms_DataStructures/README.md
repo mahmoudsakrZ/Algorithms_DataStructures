@@ -12,6 +12,7 @@
 * DFS <br>
 * Stack
 * Queue
+* BinaryTree
 ## Number theory 
 * Primes (prime sieve)<br>
 * Factorization

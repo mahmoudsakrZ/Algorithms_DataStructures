@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b75ddeb3-8676-4085-a8b4-27d2e9cc3373" name="Default" comment="Fibonacci Algorithm with 2 different ways">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ProblemSolving/geeksforgeeks/Trapping_Rain_Water.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b75ddeb3-8676-4085-a8b4-27d2e9cc3373" name="Default" comment="Fibonacci Algorithm with 2 different ways" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -441,7 +438,7 @@
       <workItem from="1509272922416" duration="1246000" />
       <workItem from="1509276318539" duration="1073000" />
       <workItem from="1509279974384" duration="5541000" />
-      <workItem from="1509348075589" duration="9188000" />
+      <workItem from="1509348075589" duration="9467000" />
     </task>
     <task id="LOCAL-00001" summary="this is my first commit">
       <created>1506424080950</created>
@@ -468,7 +465,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215039000" />
+    <option name="totallyTimeSpent" value="215318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />

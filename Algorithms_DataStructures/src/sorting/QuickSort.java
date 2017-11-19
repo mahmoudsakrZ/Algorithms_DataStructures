@@ -23,7 +23,7 @@ public class QuickSort {
 
     /*
         in this method we choose the pivot EX the end index in the array
-        and put it into ut's right position in the array where left side
+        and put it into it's right position in the array where left side
         is less than the pivot and the right side is greater than the pivot
         and finally it return the index of the pivot in it's right position
      */
@@ -33,7 +33,8 @@ public class QuickSort {
         int index=start;
         for (int i=start;i<end;i++){
             if(arr[i]<=pivot){
-                arr=swap(arr,i,index);
+                if(i!=index)
+                     arr=swap(arr,i,index);
                 index++;
             }
         }
@@ -66,7 +67,7 @@ public class QuickSort {
         the main method
      */
     public static void main(String[] args) {
-        int arr[]={2,5,12,3,9,1,4,5,19,25,99,85,24,36,44,57};
+        int arr[]={2,5,12,3,9};
 
        QuickSort a= new QuickSort();
         a.quickSort(arr);

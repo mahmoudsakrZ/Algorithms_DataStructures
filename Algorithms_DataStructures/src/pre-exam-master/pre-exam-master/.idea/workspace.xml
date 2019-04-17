@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2386b32-c6ca-4467-9213-19022514d4bb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ex_ole@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ex_ole@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ex_ole@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ex_ole: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/notes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4177">
+              <caret line="638" column="38" lean-forward="true" selection-start-line="638" selection-start-column="38" selection-end-line="638" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/StaticClass/TestOuter1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/memberClass/TestMemberOuter1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Files/FileFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/annoynomusClass/TestAnonymousInner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>to[A-Z]{1}</find>
+      <find>to</find>
+      <find>to[A-Z]</find>
+      <find>reduc</find>
+      <find />
+      <find>dance</find>
+      <find>find</find>
+      <find>file</find>
+      <find>par</find>
+      <find>node</find>
+      <find>ECHO</find>
+      <find>for</find>
+      <find>proxy</find>
+      <find>syn</find>
+      <find>pasca</find>
+      <find>findla</find>
+      <find>index</find>
+      <find>exist</find>
+      <find>left</find>
+      <find>hashmap</find>
+      <find>Navi</find>
+      <find>sort</find>
+      <find>sql</find>
+      <find>not</find>
+      <find>close</find>
+      <find>ascii</find>
+      <find>closest</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/notes.txt" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/other/generalNotes.txt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Armor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/HairColor.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/HairType.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Hero.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/Profession.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/App.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/fesal/Girl.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Builder/fesal/App.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/TestOuter1.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/memberInner.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/TestMemberOuter1.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/memberClass/TestMemberOuter1.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/memberClass/anonymousInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/annoynomusClass/TestAnonymousInner.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/LocalInnerClass/localInner1.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/Set/HashSet.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Enum/Colors.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Enum/Test2.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Operators/Test.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/Set/TreeSet.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/Set/TreeSes.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Threading/SynchronizedMethod/TestSynchronization.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Threading/SynchronizedUsingAnoynoumousClass/Test.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/WaterTankMonitor/WaterTankMonitor.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/Pyramid/Pyramid.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/PascalTriangle/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/PascalTriangle/Solution.java" />
+        <option value="$PROJECT_DIR$/src/problemSolving/ASCIIArt/Solution.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/HashTable.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/HashTables.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/BigInteger/test.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/Map/LinkedHashMaps.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/Map/hashMap.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/List/LinkedArrayLisr.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/List/Stacks.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/List/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Collections/List/ArrayLists.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Comparable/Attribute.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Comparable/example.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Date/example.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Sorting/main.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Comparator/main.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/Enum/Test.java" />
+        <option value="$PROJECT_DIR$/src/JavaConcepts/EqualsAndHashCode/Student.java" />
+        <option value="$PROJECT_DIR$/src/Database/ex_ole-questions&amp;solutions.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e2edef00-2b62-4a3b-bad4-bffb4cf8db84/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e2edef00-2b62-4a3b-bad4-bffb4cf8db84/console.sql" />
+        <option value="$PROJECT_DIR$/src/problemSolving/LongestSequenceOfZeros/LongestSequenceOfZeros.java" />
+        <option value="$PROJECT_DIR$/src/test/test.java" />
+        <option value="$PROJECT_DIR$/src/notes.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="707" />
+    <option name="width" value="900" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="annoynomusClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="annoynomusClass" type="462c0819:PsiDirectoryNode" />
+              <item name="TestAnonymousInner.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="LocalInnerClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="memberClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="nestedClass" type="462c0819:PsiDirectoryNode" />
+              <item name="StaticClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre-exam-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre-exam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553592615106" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="problemSolving.MemoryLeakStack" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\private\OLE Capsules\Exam\pre-exam\src\other" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LongestSequenceOfZeros">
+    <configuration name="LongestSequenceOfZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSequenceOfZeros.LongestSequenceOfZeros" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LongestSequenceOfZeros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcepts.Comparable.example" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcepts.Comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcepts.Sorting.main" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcepts.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConcepts.EqualsAndHashCode.test" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConcepts.EqualsAndHashCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Decortator.Decorator.test" />
+      <module name="JavaNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.Decortator.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.example" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.LongestSequenceOfZeros" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestSequenceOfZeros" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2386b32-c6ca-4467-9213-19022514d4bb" name="Default" comment="" />
+      <created>1550409317832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550409317832</updated>
+      <workItem from="1550409325680" duration="5089000" />
+      <workItem from="1550458343421" duration="9063000" />
+      <workItem from="1550490024081" duration="3373000" />
+      <workItem from="1550557259064" duration="94000" />
+      <workItem from="1550557600295" duration="2117000" />
+      <workItem from="1552023501297" duration="10225000" />
+      <workItem from="1552118200615" duration="4216000" />
+      <workItem from="1552127842425" duration="2282000" />
+      <workItem from="1552661929423" duration="8315000" />
+      <workItem from="1552717232708" duration="18818000" />
+      <workItem from="1553164987522" duration="6000" />
+      <workItem from="1553237926589" duration="37833000" />
+      <workItem from="1553366793777" duration="1299000" />
+      <workItem from="1553408858904" duration="10588000" />
+      <workItem from="1554047493693" duration="191000" />
+      <workItem from="1554098876053" duration="766000" />
+      <workItem from="1554444659798" duration="9300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123575000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23907454" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Learn" order="2" weight="0.32980332" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="DB Browser" order="8" />
+      <window_info id="Project Explorer" order="9" />
+      <window_info id="Job Explorer" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5181696" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49848714" weight="0.46567968" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015129" side_tool="true" weight="0.4669967" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32838285" />
+      <window_info anchor="bottom" id="Console" order="14" />
+      <window_info anchor="bottom" id="DB Execution Console" order="15" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="17" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Google Cloud Storage" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32969153" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemSolving/WaterTankMonitor/WaterTankMonitor.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Enum/Colors.java" />
+    <entry file="file://$PROJECT_DIR$/src/other/OOPNotes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/Pyramid/Pyramid.java" />
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/WaterTankMonitor/WaterTankMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#390#523#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Threading/SynchronizedMethod/TestSynchronization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/Set/TreeSes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/immutableDate/ImmutableClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Threading/SynchronizedUsingAnoynoumousClass/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/PascalTriangle/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/ASCIIArt/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/PascalTriangle/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Operators/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/HashTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/BigInteger/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/Map/LinkedHashMaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/Map/hashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/List/LinkedArrayLisr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/List/ArrayLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Comparator/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Date/example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Comparator/sortByspiesListSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/ObjectOutputStream/Persisit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Comparable/example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Comparable/Attribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Sorting/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Collections/List/Stacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/EqualsAndHashCode/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="56" selection-start-line="52" selection-end-line="56" />
+          <folding>
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/ex_ole.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Command/exam/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/77649674-b428-48af-96c6-9857aa9583d2/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://cae6976b-3624-41b4-9dd4-685d3db2a677/collation/armscii8_bin" />
+    <entry file="das://cae6976b-3624-41b4-9dd4-685d3db2a677/collation/ascii_general_ci" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cae6976b-3624-41b4-9dd4-685d3db2a677/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/Database.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2edef00-2b62-4a3b-bad4-bffb4cf8db84/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/ex_ole-questions&amp;solutions.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3315">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2edef00-2b62-4a3b-bad4-bffb4cf8db84/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java-collection-hierarchy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam-questions.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/AtomicInteger/Atomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Enum/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Enum/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/EqualsAndHashCode/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4177">
+          <caret line="638" column="38" lean-forward="true" selection-start-line="638" selection-start-column="38" selection-end-line="638" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/StaticClass/TestOuter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problemSolving/LongestSequenceOfZeros/LongestSequenceOfZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/LocalInnerClass/localInner1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/memberClass/TestMemberOuter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/Files/FileFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaConcepts/nestedClass/InnerClasses/annoynomusClass/TestAnonymousInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

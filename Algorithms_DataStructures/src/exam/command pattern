@@ -1,0 +1,96 @@
+package util;
+
+public interface ICommand {
+    public void execute();
+    public void unExecute();
+}
+
+
+
+###########################################
+package util;
+
+public class LightOffCommand implements ICommand {
+    Lamp lamp;
+    public LightOffCommand(Lamp lamp) {
+        this.lamp=lamp;
+    }
+
+    @Override
+    public void execute() {
+        lamp.off();
+    }
+
+    @Override
+    public void unExecute() {
+        lamp.on();
+    }
+}
+
+############################################
+package util;
+
+public class LightOnCommand implements ICommand {
+    Lamp lamp;
+
+    public LightOnCommand(Lamp lamp) {
+        this.lamp = lamp;
+    }
+
+    @Override
+    public void execute() {
+        lamp.on();
+    }
+
+    @Override
+    public void unExecute() {
+        lamp.off();
+    }
+}
+
+##################################################
+package util;
+
+public class Lamp {
+    public void on(){
+        System.out.println("Lamp is On");
+    }
+    public void off(){
+        System.out.println("Lamp is Off");
+    }
+}
+
+########################################
+package util;
+
+public class Invoker {
+    ICommand iCommand;
+
+    public void setICommand(ICommand iCommand) {
+        this.iCommand = iCommand;
+    }
+
+    public void execute(){
+        iCommand.execute();
+    }
+    public void unExecute(){
+        iCommand.unExecute();
+    }
+}
+#############################################
+package util;
+
+public class Test {
+
+
+    public static void main(String[] args) {
+        Invoker invoker = new Invoker();
+        Lamp lamp = new Lamp();
+
+        LightOffCommand lightOffCommand = new LightOffCommand(lamp);
+
+        invoker.setICommand(lightOffCommand);
+        invoker.execute();
+        invoker.unExecute();
+    }
+}
